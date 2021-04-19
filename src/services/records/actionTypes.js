@@ -1,0 +1,1 @@
+export const STORE_RECORD_DATA = 'STORE_RECORD_DATA';

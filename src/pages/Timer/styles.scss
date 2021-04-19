@@ -1,0 +1,29 @@
+.qd-timer {
+  .qd-page-content {
+    display: grid;
+    justify-items: center;
+    max-width: 350px;
+    row-gap: 16px;
+  }
+
+  .qd-timer-clock {
+    font-size: 32px;
+    font-weight: 600;
+  }
+
+  .qd-button {
+    &:first-child {
+      margin-right: 12px;
+    }
+  }
+
+  // Expired
+  .qd-expired-emoji {
+    font-size: 80px;
+    text-align: center;
+  }
+
+  .qd-expired-text {
+    font-size: 24px;
+  }
+}

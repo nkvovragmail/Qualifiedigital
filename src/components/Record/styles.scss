@@ -1,0 +1,33 @@
+.qd-record {
+  column-gap: 24px;
+  display: grid;
+  grid-template-columns: 35px auto 1fr;
+  margin-top: 12px;
+
+  .qd-record-ranking {
+    font-size: 24px;
+    font-weight: 600;
+  }
+
+  .qd-record-image-container {
+    max-height: 150px;
+    max-width: 150px;
+  }
+
+  .qd-record-image {
+    height: 100%;
+    width: 100%;
+  }
+
+  .qd-record-details-record {
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  .qd-record-details-artist {
+    color: #909090;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 8px;
+  }
+}
