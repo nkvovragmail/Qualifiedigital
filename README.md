@@ -77,3 +77,4 @@ After you submit the completed project we will schedule a follow-up code review.
 | `npm start`          | Start dev server on port `4000` |
 | `npm run format:fix` | Format files with `prettier`    |
 | `npm test`           | Execute tests with `jest`       |
+# Qualifiedigital
